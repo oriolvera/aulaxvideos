@@ -1,3 +1,10 @@
 .esquerda{
     text-align: left;
 }
+
+.centro{
+    text-align: center;
+}
+.dereita{
+    text-align: right;
+}
